@@ -2,15 +2,11 @@
  
 - [Description](#description)
 - [Samples](#samples)
-- [Implementation Details](#implementation-details)
-    - [Solution](#solution)
 - [Tools](#Tools)
 
 
 ## Description
-Examine data pertaining to airport delays to develop an intuitive and user-friendly dashboard. 
-The objective is to offer insights into the causes of delays and enable users to filter data by airport, airline, and period. 
-This facilitates informed decision-making and enhances overall airport operations. 
+Transforming AdventureWorks data in Power BI, I utilized Import mode for in-depth analysis, focusing on tables like vw_DimProducts and vw_DimSalesPersons. Employing a Star Schema with Product and Date Hierarchies, I created impactful measures such as # Orders and Total SubTotal. Dynamic visualizations, including Drill Down, synchronized Slicers, and Matrix Charts, highlighted the project's expertise in data storytelling and effective visual communication.
 
 ## Samples
 ![Demo Sample](https://github.com/Sandra-Essa/Adventure_Work_Visualization/blob/main/Media/Adventure%20Work%20Analysis.gif)
